@@ -3,7 +3,7 @@ name: "# Hashtags and Funnels !"
 title: "# Hashtags and Funnels !"
 description: "A panoramic exploration of MarTech experiments, ideas and stories"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-174184884-1'
 disqus: 'hashtagsandfunnels'
