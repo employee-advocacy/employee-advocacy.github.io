@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-174184884-1'
-disqus: 'hashtagsandfunnels'
+disqus: 'hashtags-and-funnels'
 mailchimp-list: 'https://github.us17.list-manage.com/subscribe/post?u=87fa8844adfe9f0d4dae89171&amp;id=3bab76241f'
 include: ["_pages"]
 permalink: /:title/
